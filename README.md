@@ -18,6 +18,8 @@ The Process was thought out when i realise that using this app it saves us the t
 * Adobe photoshop
 * Google API Maps
 
+## Wireframes
+
 ## Credits
 Google API
 Apple Google Maps Icon
@@ -26,3 +28,4 @@ Apple Google Maps Icon
 *Constructed using Visual Studio Code
 
 ## Web Link
+https://russchew.github.io/IDAssignment2/
