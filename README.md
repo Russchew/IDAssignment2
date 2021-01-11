@@ -26,5 +26,3 @@ Apple Google Maps Icon
 *Constructed using Visual Studio Code
 
 ## Web Link
-
-https://russchew.github.io/IDAssignment1/
